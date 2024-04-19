@@ -1,0 +1,40 @@
+* {
+    font-family: CaskaydiaCove Nerd Font;
+    color: #e5e9f0;
+    background: transparent;
+}
+
+#window {
+  background: rgba(41, 46, 66, 0.5);
+  margin: auto;
+  padding: 2px;
+  border-radius: 13px;
+  border: 2px solid #74c7ec
+}
+
+#input {
+  padding: 3px;
+  margin-bottom: 10px;
+  border-radius: 13px;
+}
+
+#outer-box {
+  padding: 20px;
+}
+
+#img {
+  margin-right: 6px;
+}
+
+#entry {
+  padding: 3px;
+  border-radius: 13px;
+}
+
+#entry:selected {
+  background-color: #74c7ec;
+}
+
+#text {
+  margin: 2px;
+}
